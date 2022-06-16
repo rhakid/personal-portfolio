@@ -1,0 +1,96 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+.top-section{
+    font-size: 40px;
+    font-weight:thin;
+    font-size: 15px;
+    background-image: url(image/header-bg.png);
+   
+}
+.top-section span {
+
+    color: tomato;
+    font-weight: bold;
+    font-size: 30px;
+}
+.right-section{
+    margin:5%;
+    width: 40%;
+    float: left;
+    
+   
+}
+.right-section p{
+    text-align: justify;
+    margin-top: 40px;
+}
+.margin {
+
+    margin-top: 70px;
+}
+
+.right-section img{
+   width: 350px;
+  height: 350px;
+
+}
+.button a {
+    margin: 3%;
+    padding: 2%;
+    text-decoration:none;
+    background-image: linear-gradient(45deg,red,yellow);
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    
+}
+.left-section{
+    border: 1px solid black;
+    margin-top: 10%;
+    
+}
+.about{
+    color: blue;
+    float:left;
+}
+.biography {
+    background-image: url(image/biography-bg.png);
+}
+.akid{
+    text-align: center;
+}
+.rafiul img {
+ width: 29%;
+ margin: 2%;
+ float: left;
+
+}
+.call{
+    text-align: center;
+    
+}
+
+}
+.call h1{
+    margin-bottom: 50px;
+}
+.fotter{
+    text-align: center;
+    background-color: tomato;
+}
+h6{
+margin-top: 100px;
+    text-align: center;
+}
+.last{
+    background-image: url(image/footer-bg.png);
+}
